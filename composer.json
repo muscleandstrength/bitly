@@ -1,7 +1,7 @@
 {
-    "name:" "muscleandstrength/bitly",
+    "name": "muscleandstrength/bitly",
     "description": "Bitly OpenAPI generated API Connector",
-    "type: "library",
+    "type": "library",
     "keywords": [
         "php",
         "sdk",
